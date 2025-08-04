@@ -1,2 +1,3 @@
 # FUTURE_DS_01
-Task 1 : E-Commerce Sales Performance Dashboard
+Task1: E-Commerce Sales Performance Dashboard
+Task2: Social Media Campaign Performance Tracker Dashboard
